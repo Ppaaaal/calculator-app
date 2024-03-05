@@ -4,7 +4,7 @@ class Calculator
 	{
 		
 	}
-	static int Penambahan(inta, int b)
+	static int Penambahan(int a, int b)
 	{
 		return a + b;
 	}
